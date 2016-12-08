@@ -3,7 +3,7 @@ import webpack from 'webpack';
 
 module.exports = {
     entry: {
-        'react-sortable-tree': './src/index',
+        'tree-utils': './src/index',
     },
     output: {
         path: path.join(__dirname, 'dist', 'umd'),

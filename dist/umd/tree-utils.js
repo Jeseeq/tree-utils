@@ -555,4 +555,4 @@
         exports.isDescendant = isDescendant, exports.getDepth = getDepth, exports.find = find;
     } ]);
 });
-//# sourceMappingURL=react-sortable-tree.js.map
+//# sourceMappingURL=tree-utils.js.map
